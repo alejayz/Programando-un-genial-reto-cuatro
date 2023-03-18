@@ -1,5 +1,7 @@
 ## Un-nuevo-reto-5
-Ahora tenemos un nuevo reto : el número cinco de la clase, el cual consiste en:
+# ¡Hola a todos! :grin:
+Ahora tenemos un nuevo reto : el número cinco de la clase, el cual consta de seis puntos y como lo hemos anteriormente vamos a solucionarlo.
+**¡Empecemos!**
 
 **1.** Dado un número entero, determinar si ese número corresponde al código ASCII de una vocal minúscula.
 
