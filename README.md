@@ -35,7 +35,7 @@ else:
 
 ```python
 # determinar si el carácfer es un dígito o no
-x : int or str
+x : int or str # ingresar un carácter
 x = input("ingrese un carácter: ")
 
 caracter_x = ord(x)
@@ -68,11 +68,11 @@ else:
 
 ```python
 # determinar si un punto de R2 pertenece o no al círculo
-center_x : float
-center_y : float
-radio: float
-a : float
-b : float
+center_x : float  #ingrese punto x del centro
+center_y : float  #ingrese punto y del centro
+radio: float   #ingrese el radio
+a : float   #ingrese una cordenada a del punto R2
+b : float   #ingrese una cordenada b del punto R2
 
 
 c = (center_x - a)**2 + (center_y - b)**2
@@ -88,9 +88,9 @@ else:
 
 ```python
 # determinar si con tres longitudes positivas se puede construir un triángulo
-a : float
-b : float
-c : float
+a : float  #ingrese una longitud positiva
+b : float  #ingrese una longitud positiva
+c : float  #ingrese una longitud positiva
 
 if (a + b) > c and (a + c) > b and (c + b) > a:
     print("sí se puede construir un triángulo")
