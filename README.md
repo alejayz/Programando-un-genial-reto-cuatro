@@ -1,6 +1,6 @@
-## Programando un genial reto cuatro
+## Programando un genial reto
 # ¡Hola a todos! :grin:
-Ahora tenemos un nuevo reto : el número cuatro de la clase, el cual consta de seis puntos y vamos a solucionarlo.
+Ahora tenemos un nuevo reto
 **¡Empecemos!**
 
 **1.** Dado un número entero, determinar si ese número corresponde al código ASCII de una vocal minúscula.
